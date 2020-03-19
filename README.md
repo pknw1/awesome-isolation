@@ -17,7 +17,27 @@ While you're spending more time at home, you won't have the protection of your b
 		* Enable App Specific Passwords
 	* Diversify your software and check the alternatives
 
-* Get Community
+## Get Community
+
+I work in technology - and one of the things that amazes me the most over and over is that people don't seem to understand that someone somehwere probably did <insert any tech task> before - or at least tried and that will be somewhere for you to get a head start... 
+
+	* Find online sources
+	* Get updates and stay informed
+	* Develop some filtering logic
+
+If someone even mentions something to me now I seem to have a pattern I follow
+
+	1. google it and see what top links there are
+	2. Horde links of anything I think meets a pretty minimal  standard so I can reference it when I want to take a look
+	3. Github - Search - Sort by Forks/Stars
+	4. DockerHub 
+	5. Ansible Galaxy
+
+The tools I use to just make the process easy for me are:
+
+	* Pocket
+	* CodeHub
+	* Feedly
 
 * Get Skills
 
