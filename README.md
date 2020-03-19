@@ -45,10 +45,30 @@ The Apps or Tools that make my life easier here are
 
 ## Get Skills
 
+Why not use your extra time to up yourskills? I much prefer hands on playing with new tech, but you can find yourself some good referemcematerial or courses and then examples from Github or Stack Overflow to get into the guts of things quickly
+
+### Useful sites and Tools
+
+
 ## Get Creative
+
+When we do tech, it pretty useless just trapped in your brain - and if you innovate and problem solve like I do, you need to share it so that it can start being used and - most importantly - enter a feedback loop so that you grow your skills and improve the effectiveness of what you've created (or stolen from github.. I am not here to judge)
+
+* Get documenting
+* Draw diagrams, flowchart, UML - anything that expresses the concepts or ideas to others
+* Present to your peers
+* Prepare to present to your customers
+* Write a guide
+* Do a video
+* Blog it or share to the wider world
+
 
 ## Get Chillaxed
 
+The internet is a wonderful place. It is also very weird... Here a list of stuff that keeps me sane-ish and definitly helps me with the weird.
+
 ## Get Unchained
 
-## Get Involved
+This section is just for me to share the tools and techniques I've developed or stolen to be able to work flexibly and communicate effectively - whether I'm working remotely or supporting an incident while sitting on the toilet the other side of the world
+
+
